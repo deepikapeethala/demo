@@ -5,7 +5,7 @@ st.markdown("Types of Cats")
 col1,col2=st.columns(2)
 with col1:
   st.subheader("Persian Cat")
-  st.image("/054d7111.jpg",caption="Persian Cat",width=300,use_column_width=True)
+  st.image("./054d7111.jpg",caption="Persian Cat",width=300,use_column_width=True)
   st.write("Persian cat are cute")
 with col2:
   st.subheader("white Cat")
