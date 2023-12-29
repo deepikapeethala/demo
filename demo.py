@@ -4,6 +4,6 @@ st.markdown("Types of Cats")
 st.write("Persian Cat")
 st.image("./054d7111.jpg")
 st.write("white Cat")
-st.image("./wp2932206.webp.jpg")
+st.image("./1013332-white-cats-wallpaper-1920x1200-for-meizu.jpg")
 
 
